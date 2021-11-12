@@ -12,4 +12,6 @@ The mobile design media query was
 
 •) Desktop Design
 
+![image](https://user-images.githubusercontent.com/78952955/141435838-7d9fbe76-ecdd-4554-b0e8-1b691ce031f0.png)
+
 •) Mobile Design
