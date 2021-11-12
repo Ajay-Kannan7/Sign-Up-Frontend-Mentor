@@ -99,4 +99,9 @@ body{
         height:85vh;
     }
 }
+@media only screen and (max-width:900px) and (orientation:landscape){
+    .wrapper .form form{
+        height:100vh;
+    }
+}
 /*Designing for wrapper ends*/
